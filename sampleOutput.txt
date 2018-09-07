@@ -1,0 +1,36 @@
+
+*****************
+Current State is: OPENED
+*****************
+The GREEN  LED is now on.
+Event: OPEN_BUTTON_PRESSED
+Event: OPENED_DETECTED
+Event: CLOSED_DETECTED
+Event: CLOSE_BUTTON_PRESSED
+The GREEN  LED is now off.
+
+*****************
+Current State is: CLOSING
+*****************
+The motor is now closing the door.
+Event: INVALID_EVENT
+Event: OPEN_BUTTON_PRESSED
+
+*****************
+Current State is: OPENING
+*****************
+The motor is now opening the door.
+Event: CLOSE_BUTTON_PRESSED
+
+*****************
+Current State is: CLOSING
+*****************
+The motor is now closing the door.
+Event: CLOSED_DETECTED
+The motor is now off.
+
+*****************
+Current State is: CLOSED
+*****************
+The YELLOW LED is now on.
+
